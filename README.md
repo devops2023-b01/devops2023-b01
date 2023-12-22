@@ -1,4 +1,6 @@
-### Hi there 👋
+### Import the repositories from here.
+
+#### https://github.com/orgs/roboshop-devops-project-v1/repositories
 
 <!--
 **devops2023-b01/devops2023-b01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
